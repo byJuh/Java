@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=App
+comment0.text=\r\n\ Main\ para\ gerar\ o\ menu\ de\ entrada\r\n\ \r\n\ @author\ Jo\u00E3o\ Pedro\ Figols,\ Julia\ Schmidt,\ Igor\ Matos,\ Leonardo\ Grupioni\ \r\n\ @version\ v3.0\ 11/04/2023\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

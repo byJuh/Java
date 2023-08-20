@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Disciplina
+comment0.text=\r\n\ Representa\ a\ disciplina\ que\ armazena\ disciplinas\ e\ notas\ do\ aluno\r\n\ \r\n\ @author\ Jo\u00E3o\ Pedro\ Figols,\ Julia\ Schmidt,\ Igor\ Matos,\ Leonardo\ Grupioni\ \r\n\ @version\ v2.0\ 24/03/2023\r\n
+comment1.params=
+comment1.target=Disciplina()
+comment1.text=\r\n\ Construtor\:\ armazena\ as\ disciplinas\r\n\r\n
+comment2.params=disciplina
+comment2.target=void\ setDisciplina(java.lang.String)
+comment3.params=
+comment3.target=java.lang.String\ getDisciplina()
+comment4.params=
+comment4.target=double\ getNota()
+numComments=5

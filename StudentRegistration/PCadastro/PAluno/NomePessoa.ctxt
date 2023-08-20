@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=NomePessoa
+comment0.text=\r\n\ Represento\ o\ nome\ de\ uma\ pessoa.\ Utiliza\ a\ classe\ Texto\r\n\ \r\n\ @author\ Julio\ Arakaki,\ Julia\ Schmidt,\ Jo\u00E3o\ Pedro\ Figols,\ Igor\ Matos,\ Leonardo\ Grupioni\ \r\n\ @version\ v2.0\ 21/03/2023\r\n
+comment1.params=nome
+comment1.target=NomePessoa(java.lang.String)
+comment1.text=\r\n\ Construtor\ para\ objetos\ da\ classe\ NomePessoa\r\n
+comment2.params=nome
+comment2.target=void\ setNome(java.lang.String)
+comment3.params=
+comment3.target=java.lang.String\ getNome()
+comment4.params=
+comment4.target=int\ getQtdePalavras()
+comment4.text=\r\n\ Retorna\ quantidade\ de\ palavras\ do\ nome\r\n\ @return\ qtd\ numero\ de\ palavras\r\n
+comment5.params=
+comment5.target=java.lang.String\ inverterTexto()
+comment5.text=\r\n\ Retorna\ um\ texto\ invertido\r\n\ @return\ txtInvertido\ String\ contendo\ o\ texto\ invertido\r\n
+comment6.params=
+comment6.target=java.lang.String\ getNomeBibliografico()
+comment6.text=\r\n\ M\u00E9todo\ getNomeBibliografico\r\n\r\n\ @return\ nomeBibliografico\ String\ contendo\ o\ nome\ bibliografico\r\n
+numComments=7
